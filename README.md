@@ -84,17 +84,16 @@ Follow these instructions to get the frontend running on your local machine for 
 
 The project follows a standard Vite + React structure:
 
-/
-├── public/              # Static assets
-├── src/
-│   ├── api/             # API communication logic (screenerAPI.tsx)
-│   ├── components/      # Reusable React components (ResumeForm.tsx)
-│   ├── types/           # TypeScript type definitions
-│   ├── App.tsx          # Main application component
-│   └── main.tsx         # Application entry point
-├── .env                 # Environment variables (stores API URL)
-├── package.json
-└── vite.config.ts
+RESUME-SCREENER-FRONTEND/
+└── src/
+    ├── api/
+    │   └── screenerAPI.tsx  <-- Your API logic lives here
+    ├── components/
+    │   └── ResumeForm.tsx   <-- Your component lives here
+    ├── types/
+    │   └── types.ts         <-- Your types live here
+    ├── App.tsx
+    └── ... other files
 
 
 ---
