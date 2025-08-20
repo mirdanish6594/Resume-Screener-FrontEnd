@@ -8,9 +8,9 @@
 This is the official frontend for the **AI Resume Screener MLOps Project**. It provides a clean, intuitive, and responsive user interface for recruiters and HR professionals to interact with the powerful machine learning backend.
 
 Users can easily upload or paste resume content and receive instant, AI-powered analysis, including role predictions and actionable feedback for improvement.
+live site:``` https://resumescreenerai.netlify.app/ ```
 
 **➡️ Backend Repository:** For all details on the MLOps pipeline, model training, and API, please see the [**Backend README**](httpss://github.com/mirdanish6594/Resume-Screener).
-
 ---
 ## ✨ Features
 
